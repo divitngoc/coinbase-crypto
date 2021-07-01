@@ -1,5 +1,8 @@
 # coinbase-crypto
 
+This application subscribes to coinbase websocket feed and reads a snapshot/updates of the asks/bids price of a crypto pair.
+
+
 ## Prerequisite
 - Java 11
 - Maven 3.5.3+
@@ -10,7 +13,7 @@ You can either start the application through your IDE or run ```mvn package``` a
 
 
 
-Example response
+Example response per tick
 ```
 ======================== BTC-USD ========================
 _________________________________________________________
