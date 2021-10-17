@@ -1,4 +1,4 @@
-# coinbase-crypto
+# Coinbase-crypto
 
 This application subscribes to coinbase websocket feed and reads a snapshot/updates of the asks/bids price of a crypto pair.
 
