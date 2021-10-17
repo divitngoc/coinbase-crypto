@@ -1,4 +1,4 @@
-# Coinbase-crypto
+# coinbase-crypto
 
 ## Prerequisite
 - Java 11
